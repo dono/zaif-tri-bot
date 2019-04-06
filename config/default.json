@@ -1,0 +1,18 @@
+{
+    "Auth": {
+        "apikey": "hogehoge",
+        "secretkey": "fugafuga"
+
+    }, 
+
+    "Bot": {
+        "id": "Bot1",
+        "capital": 150000,           // 運用資産額(円)
+        "currencyPair": "xem_jpy", // 通貨ペア
+        "trapCount": 7,            // トラップ数 
+        "range": {                 // 範囲
+            "upper": 28,          // 上限
+            "lower": 26         // 下限
+        }
+    }
+}

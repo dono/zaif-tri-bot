@@ -1,0 +1,1205 @@
+[2017-08-07 05:00:50.382] [TRACE] system - 買い注文発生: { buyPrice: 25.5333 }
+[2017-08-07 05:00:50.440] [TRACE] system - 買い注文発生: { buyPrice: 25.3 }
+[2017-08-07 05:00:50.473] [TRACE] system - 買い注文発生: { buyPrice: 25.7666 }
+[2017-08-07 11:24:59.747] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:24:59.849] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:24:59.890] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.064] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:25:00.153] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:25:00.253] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.328] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:25:00.339] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.341] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:25:00.372] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:25:00.503] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.599] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:25:00.624] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:25:00.625] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:25:00.646] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.713] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:25:00.772] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:25:00.968] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:26:05.786] [TRACE] system - 買い注文発生: { buyPrice: 26.5 }
+[2017-08-07 11:26:05.996] [TRACE] system - 買い注文発生: { buyPrice: 26.875 }
+[2017-08-07 11:26:06.267] [TRACE] system - 買い注文発生: { buyPrice: 27.25 }
+[2017-08-07 11:28:47.280] [TRACE] system - 買い注文発生: { buyPrice: 27.625 }
+[2017-08-07 12:32:16.028] [TRACE] system - 買い注文発生: { buyPrice: 27.5 }
+[2017-08-07 12:32:16.109] [TRACE] system - 買い注文発生: { buyPrice: 27.825 }
+[2017-08-07 12:32:16.436] [TRACE] system - 買い注文発生: { buyPrice: 28.15 }
+[2017-08-07 12:32:16.542] [TRACE] system - 買い注文発生: { buyPrice: 28.475 }
+[2017-08-07 12:33:48.528] [TRACE] system - 買い注文発生: { buyPrice: 27.5 }
+[2017-08-07 12:33:48.852] [TRACE] system - 買い注文発生: { buyPrice: 27.825 }
+[2017-08-07 12:33:49.169] [TRACE] system - 買い注文発生: { buyPrice: 28.15 }
+[2017-08-07 12:33:49.258] [TRACE] system - 買い注文発生: { buyPrice: 28.475 }
+[2017-08-07 12:33:54.081] [TRACE] system - 買い注文発生: { buyPrice: 27.5 }
+[2017-08-07 12:33:54.113] [TRACE] system - 買い注文発生: { buyPrice: 27.825 }
+[2017-08-07 12:33:54.428] [TRACE] system - 買い注文発生: { buyPrice: 28.15 }
+[2017-08-07 12:33:54.673] [TRACE] system - 買い注文発生: { buyPrice: 28.475 }
+[2017-08-07 12:33:55.091] [TRACE] system - 買い注文発生: { buyPrice: 28.475 }
+[2017-08-07 12:35:06.332] [TRACE] system - 買い注文発生: { buyPrice: 27.5 }
+[2017-08-07 12:35:06.398] [TRACE] system - 買い注文発生: { buyPrice: 27.825 }
+[2017-08-07 12:35:06.865] [TRACE] system - 買い注文発生: { buyPrice: 28.475 }
+[2017-08-07 12:35:06.876] [TRACE] system - 買い注文発生: { buyPrice: 28.15 }
+[2017-08-07 12:41:48.934] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 12:41:48.993] [TRACE] system - 買い注文発生: { buyPrice: 28.7 }
+[2017-08-07 12:42:09.225] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 12:42:10.429] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 12:42:10.436] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 13:11:54.481] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 13:11:55.090] [TRACE] system - 買い注文発生: { buyPrice: 28.7 }
+[2017-08-07 13:14:32.052] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:32.183] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:32.234] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:32.389] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:32.483] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:32.526] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 13:14:56.142] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 13:14:56.765] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 13:49:01.240] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 13:50:12.505] [TRACE] system - 買い注文発生: { buyPrice: 28.7 }
+[2017-08-07 13:50:12.720] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 13:51:56.420] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 13:51:56.643] [TRACE] system - 買い注文発生: { buyPrice: 28.7 }
+[2017-08-07 13:55:18.467] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 13:55:26.228] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 13:55:26.398] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 14:10:45.830] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:11:47.531] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 14:11:48.442] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 14:15:08.316] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 14:15:08.603] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 14:15:08.699] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:15:37.261] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:15:37.263] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:15:37.263] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:15:55.832] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.08 }
+[2017-08-07 14:15:55.833] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.08 }
+[2017-08-07 14:15:55.833] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.08 }
+[2017-08-07 14:16:24.997] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.0666 }
+[2017-08-07 14:16:24.998] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.0666 }
+[2017-08-07 14:16:24.998] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.0666 }
+[2017-08-07 14:17:15.245] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.1999 }
+[2017-08-07 14:17:15.246] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.1999 }
+[2017-08-07 14:17:15.249] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.1999 }
+[2017-08-07 14:17:17.298] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.07 }
+[2017-08-07 14:17:17.299] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.07 }
+[2017-08-07 14:17:17.300] [INFO] system - { lastPrice: 29.1999, secLastPrice: 29.07 }
+[2017-08-07 14:18:00.171] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.1999 }
+[2017-08-07 14:18:00.172] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.1999 }
+[2017-08-07 14:18:00.173] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.1999 }
+[2017-08-07 14:19:26.347] [INFO] system - { lastPrice: 29.16, secLastPrice: 29.1998 }
+[2017-08-07 14:19:26.347] [INFO] system - { lastPrice: 29.16, secLastPrice: 29.1998 }
+[2017-08-07 14:19:26.348] [INFO] system - { lastPrice: 29.16, secLastPrice: 29.1998 }
+[2017-08-07 14:19:27.226] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.16 }
+[2017-08-07 14:19:27.227] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.16 }
+[2017-08-07 14:19:27.227] [INFO] system - { lastPrice: 29.1998, secLastPrice: 29.16 }
+[2017-08-07 14:19:47.024] [INFO] system - { lastPrice: 29.19, secLastPrice: 29.1998 }
+[2017-08-07 14:19:47.025] [INFO] system - { lastPrice: 29.19, secLastPrice: 29.1998 }
+[2017-08-07 14:19:47.025] [INFO] system - { lastPrice: 29.19, secLastPrice: 29.1998 }
+[2017-08-07 14:19:53.794] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.19 }
+[2017-08-07 14:19:53.795] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.19 }
+[2017-08-07 14:19:53.796] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.19 }
+[2017-08-07 14:20:08.613] [INFO] system - { lastPrice: 29.1899, secLastPrice: 29.07 }
+[2017-08-07 14:20:08.614] [INFO] system - { lastPrice: 29.1899, secLastPrice: 29.07 }
+[2017-08-07 14:20:08.615] [INFO] system - { lastPrice: 29.1899, secLastPrice: 29.07 }
+[2017-08-07 14:20:37.681] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1899 }
+[2017-08-07 14:20:37.682] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1899 }
+[2017-08-07 14:20:37.682] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1899 }
+[2017-08-07 14:21:10.398] [INFO] system - { lastPrice: 29.1, secLastPrice: 29.08 }
+[2017-08-07 14:21:10.398] [INFO] system - { lastPrice: 29.1, secLastPrice: 29.08 }
+[2017-08-07 14:21:10.398] [INFO] system - { lastPrice: 29.1, secLastPrice: 29.08 }
+[2017-08-07 14:21:28.555] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:21:28.555] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:21:28.560] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.1 }
+[2017-08-07 14:22:40.902] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.08 }
+[2017-08-07 14:22:40.902] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.08 }
+[2017-08-07 14:22:40.903] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.08 }
+[2017-08-07 14:23:03.214] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.07 }
+[2017-08-07 14:23:03.214] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.07 }
+[2017-08-07 14:23:03.214] [INFO] system - { lastPrice: 29.08, secLastPrice: 29.07 }
+[2017-08-07 14:23:11.422] [INFO] system - { lastPrice: 29.078, secLastPrice: 29.08 }
+[2017-08-07 14:23:11.422] [INFO] system - { lastPrice: 29.078, secLastPrice: 29.08 }
+[2017-08-07 14:23:11.423] [INFO] system - { lastPrice: 29.078, secLastPrice: 29.08 }
+[2017-08-07 14:23:39.646] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.078 }
+[2017-08-07 14:23:39.646] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.078 }
+[2017-08-07 14:23:39.646] [INFO] system - { lastPrice: 29.07, secLastPrice: 29.078 }
+[2017-08-07 14:23:44.123] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.07 }
+[2017-08-07 14:23:44.123] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.07 }
+[2017-08-07 14:23:44.124] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.07 }
+[2017-08-07 14:23:44.125] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 14:23:45.032] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 14:23:56.844] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:23:56.845] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:23:56.845] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:23:58.416] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.01 }
+[2017-08-07 14:23:58.418] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.01 }
+[2017-08-07 14:23:58.419] [INFO] system - { lastPrice: 29.03, secLastPrice: 29.01 }
+[2017-08-07 14:24:02.188] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:24:02.188] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:24:02.188] [INFO] system - { lastPrice: 29.01, secLastPrice: 29.03 }
+[2017-08-07 14:24:25.802] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:25.803] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:25.803] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:37.392] [INFO] system - { lastPrice: 29.01, secLastPrice: 29 }
+[2017-08-07 14:24:37.393] [INFO] system - { lastPrice: 29.01, secLastPrice: 29 }
+[2017-08-07 14:24:37.393] [INFO] system - { lastPrice: 29.01, secLastPrice: 29 }
+[2017-08-07 14:24:37.899] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:37.899] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:37.900] [INFO] system - { lastPrice: 29, secLastPrice: 29.01 }
+[2017-08-07 14:24:42.705] [INFO] system - { lastPrice: 28.91, secLastPrice: 29 }
+[2017-08-07 14:24:42.706] [INFO] system - { lastPrice: 28.91, secLastPrice: 29 }
+[2017-08-07 14:24:42.706] [INFO] system - { lastPrice: 28.91, secLastPrice: 29 }
+[2017-08-07 14:24:50.367] [INFO] system - { lastPrice: 28.9, secLastPrice: 28.91 }
+[2017-08-07 14:24:50.368] [INFO] system - { lastPrice: 28.9, secLastPrice: 28.91 }
+[2017-08-07 14:24:50.369] [INFO] system - { lastPrice: 28.9, secLastPrice: 28.91 }
+[2017-08-07 14:24:59.621] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 14:24:59.732] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 14:26:03.945] [TRACE] system - 買い注文発生: { buyPrice: 28.4 }
+[2017-08-07 14:26:04.297] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 14:32:21.298] [TRACE] system - 買い注文約定: { buyPrice: 28.7333 }
+[2017-08-07 14:32:22.261] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 14:32:22.261] [INFO] system - { lastPrice: 28.7, secLastPrice: 28.7 }
+[2017-08-07 14:50:55.003] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:50:55.003] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.05 }
+[2017-08-07 14:50:55.202] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:50:55.202] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.0666 }
+[2017-08-07 14:50:55.402] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:50:55.403] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.0666 }
+[2017-08-07 14:50:55.437] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 14:50:55.438] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.0666 }
+[2017-08-07 14:51:07.602] [TRACE] system - 売り注文約定
+[2017-08-07 14:51:08.541] [TRACE] system - 買い注文発生: { buyPrice: 28.7333 }
+[2017-08-07 14:51:08.542] [INFO] system - { lastPrice: 29.078, secLastPrice: 29.078 }
+[2017-08-07 15:52:30.190] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 15:52:30.627] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 15:53:25.896] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 15:53:26.013] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 15:53:44.467] [TRACE] system - 買い注文約定: { buyPrice: 29.4 }
+[2017-08-07 15:53:44.467] [TRACE] system - 売り注文発生: { sellPrice: 29.8 }
+[2017-08-07 15:53:44.467] [INFO] system - { lastPrice: 29.399, secLastPrice: 29.4 }
+[2017-08-07 16:17:48.758] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 16:17:48.763] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 16:17:48.763] [TRACE] system - 売り注文約定
+[2017-08-07 16:17:48.966] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 16:17:48.966] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.1 }
+[2017-08-07 16:17:48.967] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 16:17:48.967] [INFO] system - { lastPrice: 28.5, secLastPrice: 29.1 }
+[2017-08-07 16:17:48.967] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:17:48.968] [INFO] system - { lastPrice: 29.1, secLastPrice: 28.5 }
+[2017-08-07 16:18:37.218] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 16:18:37.222] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 16:18:37.223] [TRACE] system - 売り注文約定
+[2017-08-07 16:18:37.426] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 16:18:37.427] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.1 }
+[2017-08-07 16:18:37.427] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 16:18:37.428] [INFO] system - { lastPrice: 28.5, secLastPrice: 29.1 }
+[2017-08-07 16:18:37.428] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:18:37.429] [INFO] system - { lastPrice: 29.1, secLastPrice: 28.5 }
+[2017-08-07 16:19:15.788] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 16:19:15.792] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 16:19:15.793] [TRACE] system - 売り注文約定
+[2017-08-07 16:19:15.996] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 16:19:15.997] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.1 }
+[2017-08-07 16:19:16.000] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 16:19:16.000] [INFO] system - { lastPrice: 28.5, secLastPrice: 29.1 }
+[2017-08-07 16:19:16.001] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:19:16.001] [INFO] system - { lastPrice: 29.1, secLastPrice: 28.5 }
+[2017-08-07 16:20:25.580] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 16:20:25.587] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 16:20:25.590] [TRACE] system - 売り注文約定
+[2017-08-07 16:20:25.788] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 16:20:25.788] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.1 }
+[2017-08-07 16:20:25.789] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 16:20:25.789] [INFO] system - { lastPrice: 28.5, secLastPrice: 29.1 }
+[2017-08-07 16:20:25.790] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:20:25.790] [INFO] system - { lastPrice: 29.1, secLastPrice: 28.5 }
+[2017-08-07 16:48:06.688] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:06.695] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:48:32.057] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:32.066] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:48:32.307] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:32.307] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:48:32.544] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:32.544] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:48:32.779] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:32.779] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:48:33.011] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:33.011] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:48:33.309] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:33.310] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:48:33.544] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:33.545] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:48:33.782] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:33.782] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:48:34.023] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:34.023] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:34.228] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:34.229] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:34.462] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:34.463] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:34.669] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:34.669] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:34.903] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:34.903] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:35.107] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:35.107] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:35.345] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:35.345] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:48:35.546] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:35.547] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:48:35.788] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:35.788] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:35.995] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:35.995] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:36.230] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:36.231] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:48:36.436] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:36.436] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:48:36.675] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:36.676] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:36.878] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:36.878] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:37.118] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:37.119] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:37.322] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:37.322] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:37.554] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:37.554] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 16:48:37.787] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:37.788] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 16:48:38.023] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:38.024] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:38.228] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:38.228] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:38.461] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:38.462] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:38.665] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:38.665] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:48:38.905] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:48:38.906] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:48:39.110] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:48:39.110] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:49:53.528] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:53.538] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:49:53.774] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:53.774] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:49:54.009] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:54.009] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:49:54.248] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:54.249] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:49:54.485] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:54.486] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:49:54.788] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:54.788] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:49:55.022] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:55.023] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 16:49:55.257] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:55.258] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 16:49:55.489] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:55.490] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:55.693] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:55.693] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:55.933] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:55.935] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:56.139] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:56.140] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:56.376] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:56.377] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:56.581] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:56.581] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:56.817] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:56.817] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:49:57.021] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:57.021] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:49:57.257] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:57.259] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:57.465] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:57.466] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:57.700] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:57.701] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:49:57.903] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:57.904] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:49:58.137] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:58.138] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:58.341] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:58.343] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:58.578] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:58.578] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:58.784] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:58.784] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:59.017] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:59.017] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 16:49:59.251] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:59.251] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 16:49:59.485] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:59.485] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:59.688] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:49:59.688] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:49:59.920] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:49:59.921] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:50:00.122] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:50:00.123] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 16:50:00.357] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 16:50:00.357] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 16:50:00.559] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 16:50:00.559] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:29.877] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:29.880] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:06:30.118] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:30.119] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:06:30.359] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:30.360] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:06:30.593] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:30.594] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:06:30.832] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:30.832] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:06:31.135] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:31.135] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:06:31.373] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:31.374] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:06:31.615] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:31.616] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:06:31.848] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:31.848] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:32.049] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:32.050] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:32.282] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:32.282] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:32.486] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:32.486] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:32.723] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:32.723] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:32.926] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:32.927] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:33.164] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:33.165] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:33.369] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:33.370] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:33.605] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:33.606] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:33.807] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:33.808] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:34.049] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:34.049] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:34.253] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:34.253] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:34.488] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:34.488] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:34.691] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:34.691] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:34.929] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:34.930] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:35.134] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:35.135] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:35.372] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:35.373] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 17:06:35.608] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:35.609] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 17:06:35.842] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:35.843] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:36.048] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:36.049] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:36.285] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:36.285] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:36.489] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:36.490] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:06:36.727] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:06:36.729] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:06:36.933] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:06:36.933] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:22.278] [INFO] system - initOrder
+[2017-08-07 17:10:22.282] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:22.489] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:22.489] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:10:22.725] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:22.726] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:10:22.958] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:22.958] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:10:23.193] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:23.193] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:10:23.427] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:23.428] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:10:23.729] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:23.730] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:10:23.965] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:23.966] [INFO] system - { lastPrice: 28.6, secLastPrice: null }
+[2017-08-07 17:10:24.201] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:24.202] [INFO] system - { lastPrice: 28.7, secLastPrice: null }
+[2017-08-07 17:10:24.440] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:24.442] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:24.644] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:24.644] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:24.876] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:24.877] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:25.081] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:25.081] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:25.316] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:25.317] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:25.522] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:25.523] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:25.759] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:25.759] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:25.963] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:25.963] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:26.201] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:26.201] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:26.401] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:26.402] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:26.635] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:26.636] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:26.840] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:26.840] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:27.077] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:27.077] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:27.282] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:27.283] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:27.521] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:27.522] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:27.728] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:27.729] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:27.966] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:27.966] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 17:10:28.199] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:28.200] [INFO] system - { lastPrice: 28.9, secLastPrice: null }
+[2017-08-07 17:10:28.434] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:28.435] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:28.635] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:28.636] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:28.868] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:28.869] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:29.074] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:29.075] [INFO] system - { lastPrice: 29, secLastPrice: null }
+[2017-08-07 17:10:29.310] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:10:29.311] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:10:29.514] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:10:29.514] [INFO] system - { lastPrice: 29.1, secLastPrice: null }
+[2017-08-07 17:13:37.175] [INFO] system - initOrder
+[2017-08-07 17:13:37.178] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:13:37.181] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:13:37.382] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:13:37.383] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.22 }
+[2017-08-07 17:13:37.548] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:13:37.750] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:13:37.750] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:13:38.016] [TRACE] system - 売り注文約定
+[2017-08-07 17:13:38.217] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:13:38.218] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:19:49.439] [INFO] system - initOrder
+[2017-08-07 17:19:49.442] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:19:49.444] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:19:49.648] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:19:49.649] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.2999 }
+[2017-08-07 17:19:49.813] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:19:50.017] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:19:50.017] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:19:50.280] [TRACE] system - 売り注文約定
+[2017-08-07 17:19:50.481] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:19:50.482] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:21:24.058] [INFO] system - initOrder
+[2017-08-07 17:21:24.060] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:21:24.063] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:21:24.264] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:21:24.265] [INFO] system - { lastPrice: 28.7, secLastPrice: 29.2999 }
+[2017-08-07 17:21:24.433] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:21:24.637] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:21:24.637] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:21:24.901] [TRACE] system - 売り注文約定
+[2017-08-07 17:21:25.106] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:21:25.107] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:22:40.748] [INFO] system - initOrder
+[2017-08-07 17:22:40.751] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:22:40.922] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:22:41.125] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:22:41.126] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:22:41.486] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:22:41.487] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 17:22:41.588] [TRACE] system - 売り注文約定
+[2017-08-07 17:22:41.793] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:22:41.794] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:22:41.956] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:22:42.160] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:22:42.160] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 17:23:06.474] [INFO] system - initOrder
+[2017-08-07 17:23:06.477] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:23:06.653] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:23:06.858] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:23:06.859] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:23:07.222] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:23:07.223] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 17:23:07.325] [TRACE] system - 売り注文約定
+[2017-08-07 17:23:07.529] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:23:07.529] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:23:07.691] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:23:07.892] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:23:07.892] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 17:23:20.046] [INFO] system - initOrder
+[2017-08-07 17:23:20.052] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:23:20.220] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:23:20.426] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:23:20.426] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:23:20.789] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:23:20.789] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 17:23:20.889] [TRACE] system - 売り注文約定
+[2017-08-07 17:23:21.094] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:23:21.095] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:23:21.253] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:23:21.455] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:23:21.455] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 17:53:28.670] [INFO] system - initOrder
+[2017-08-07 17:53:28.674] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:53:28.836] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:53:29.038] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:53:29.039] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:53:29.405] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:53:29.405] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 17:53:29.502] [TRACE] system - 売り注文約定
+[2017-08-07 17:53:29.703] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:53:29.703] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:53:29.870] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:53:30.075] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:53:30.075] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 17:57:59.341] [INFO] system - initOrder
+[2017-08-07 17:57:59.346] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:57:59.523] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 17:57:59.725] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 17:57:59.726] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 17:58:00.096] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 17:58:00.096] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 17:58:00.202] [TRACE] system - 売り注文約定
+[2017-08-07 17:58:00.404] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:58:00.404] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 17:58:00.573] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 17:58:00.778] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 17:58:00.780] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 17:59:41.447] [INFO] system - initOrder
+[2017-08-07 17:59:41.453] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 17:59:41.631] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 18:00:08.474] [INFO] system - initOrder
+[2017-08-07 18:00:08.481] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:00:08.654] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 18:00:18.660] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 18:00:18.661] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.6 }
+[2017-08-07 18:00:19.033] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:00:19.034] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 18:00:19.128] [TRACE] system - 売り注文約定
+[2017-08-07 18:00:19.331] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:00:19.331] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 18:00:19.495] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 18:01:26.650] [INFO] system - initOrder
+[2017-08-07 18:01:26.655] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:01:26.831] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 18:01:39.863] [INFO] system - initOrder
+[2017-08-07 18:01:39.870] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:01:40.053] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 18:01:40.086] [TRACE] system - 買い注文約定: { buyPrice: 28.6 }
+[2017-08-07 18:01:40.419] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.420] [INFO] system - { lastPrice: 29, secLastPrice: 28.7 }
+[2017-08-07 18:01:40.452] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.452] [INFO] system - { lastPrice: 29, secLastPrice: 29 }
+[2017-08-07 18:01:40.484] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 18:01:40.485] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.485] [INFO] system - { lastPrice: 29, secLastPrice: 29 }
+[2017-08-07 18:01:40.515] [TRACE] system - 買い注文約定: { buyPrice: 29 }
+[2017-08-07 18:01:40.515] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.515] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 18:01:40.548] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.549] [INFO] system - { lastPrice: 29, secLastPrice: 29 }
+[2017-08-07 18:01:40.582] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.583] [INFO] system - { lastPrice: 29.1, secLastPrice: 29 }
+[2017-08-07 18:01:40.618] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-07 18:01:40.619] [INFO] system - { lastPrice: 29, secLastPrice: 29.1 }
+[2017-08-07 18:01:50.058] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 18:01:50.059] [INFO] system - { lastPrice: 28.5, secLastPrice: 29.1 }
+[2017-08-07 18:01:50.089] [TRACE] system - 売り注文発生: { sellPrice: 29 }
+[2017-08-07 18:01:50.089] [INFO] system - { lastPrice: 28.5, secLastPrice: 28.5 }
+[2017-08-07 18:01:50.486] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 18:01:50.486] [INFO] system - { lastPrice: 28.9, secLastPrice: 29 }
+[2017-08-07 18:01:50.518] [TRACE] system - 売り注文発生: { sellPrice: 29.4 }
+[2017-08-07 18:01:50.518] [INFO] system - { lastPrice: 28.9, secLastPrice: 28.9 }
+[2017-08-07 18:07:31.235] [INFO] system - initOrder
+[2017-08-07 18:07:31.238] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:07:31.239] [INFO] system - initOrder
+[2017-08-07 18:07:31.239] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:07:31.239] [INFO] system - initOrder
+[2017-08-07 18:07:31.240] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 18:08:53.394] [INFO] system - initOrder
+[2017-08-07 18:08:53.397] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:08:53.398] [INFO] system - initOrder
+[2017-08-07 18:08:53.398] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:08:53.399] [INFO] system - initOrder
+[2017-08-07 18:08:53.399] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 18:10:05.363] [INFO] system - initOrder
+[2017-08-07 18:10:05.809] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:10:05.810] [INFO] system - initOrder
+[2017-08-07 18:10:06.435] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:10:06.436] [INFO] system - initOrder
+[2017-08-07 18:10:06.954] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 18:17:51.493] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 18:17:51.768] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 18:17:51.947] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 18:17:51.948] [INFO] system - { lastPrice: 29.066, secLastPrice: 29.1 }
+[2017-08-07 18:17:52.288] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 18:17:52.288] [INFO] system - { lastPrice: 29.066, secLastPrice: 29.066 }
+[2017-08-07 18:40:46.312] [INFO] system - initOrder
+[2017-08-07 18:40:47.128] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:40:47.129] [INFO] system - initOrder
+[2017-08-07 18:40:48.048] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:41:47.583] [INFO] system - initOrder
+[2017-08-07 18:41:48.396] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:41:48.397] [INFO] system - initOrder
+[2017-08-07 18:41:49.215] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:42:38.707] [TRACE] system - 買い注文約定: { buyPrice: 28.8333 }
+[2017-08-07 18:42:39.298] [TRACE] system - 買い注文約定: { buyPrice: 28.8333 }
+[2017-08-07 18:42:39.565] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 18:42:39.565] [INFO] system - { lastPrice: 28.83, secLastPrice: 28.8333 }
+[2017-08-07 18:42:40.263] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 18:42:40.264] [INFO] system - { lastPrice: 28.83, secLastPrice: 28.83 }
+[2017-08-07 18:52:55.471] [INFO] system - initOrder
+[2017-08-07 18:52:56.122] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:53:02.010] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:53:02.011] [INFO] system - { lastPrice: 28.8333, secLastPrice: 28.8201 }
+[2017-08-07 18:53:02.292] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:53:02.292] [INFO] system - { lastPrice: 28.8333, secLastPrice: 28.8333 }
+[2017-08-07 18:53:02.424] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:53:02.424] [INFO] system - { lastPrice: 28.8333, secLastPrice: 28.8333 }
+[2017-08-07 18:53:12.099] [TRACE] system - 買い注文約定: { buyPrice: 28.8333 }
+[2017-08-07 18:53:12.279] [TRACE] system - 買い注文約定: { buyPrice: 28.8333 }
+[2017-08-07 18:53:12.444] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 18:53:12.445] [INFO] system - { lastPrice: 28.8201, secLastPrice: 28.8333 }
+[2017-08-07 18:53:12.621] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 18:53:12.621] [INFO] system - { lastPrice: 28.8201, secLastPrice: 28.8201 }
+[2017-08-07 18:53:34.949] [INFO] system - initOrder
+[2017-08-07 18:53:35.629] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:53:35.632] [INFO] system - initOrder
+[2017-08-07 18:53:36.097] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:55:09.774] [INFO] system - initOrder
+[2017-08-07 18:55:10.718] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:55:10.721] [INFO] system - initOrder
+[2017-08-07 18:55:11.427] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:56:44.132] [INFO] system - initOrder
+[2017-08-07 18:56:44.859] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 18:56:44.862] [INFO] system - initOrder
+[2017-08-07 18:56:45.260] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 18:56:45.261] [INFO] system - initOrder
+[2017-08-07 18:56:45.881] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 18:59:28.511] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 18:59:28.899] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 18:59:29.117] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 18:59:29.131] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 18:59:29.131] [INFO] system - { lastPrice: 29, secLastPrice: 29.0666 }
+[2017-08-07 18:59:29.292] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 18:59:29.293] [INFO] system - { lastPrice: 29, secLastPrice: 29 }
+[2017-08-07 18:59:29.925] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 18:59:29.927] [INFO] system - { lastPrice: 29, secLastPrice: 29 }
+[2017-08-07 19:02:28.445] [INFO] system - initOrder
+[2017-08-07 19:02:29.267] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 19:02:29.269] [INFO] system - initOrder
+[2017-08-07 19:02:30.076] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 19:11:10.399] [TRACE] system - 買い注文約定: { buyPrice: 28.8333 }
+[2017-08-07 19:11:11.035] [TRACE] system - 売り注文発生: { sellPrice: 29.0666 }
+[2017-08-07 19:11:11.035] [INFO] system - { lastPrice: 28.8201, secLastPrice: 28.8201 }
+[2017-08-07 19:25:30.408] [INFO] system - initOrder
+[2017-08-07 19:25:31.412] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 19:25:31.413] [INFO] system - initOrder
+[2017-08-07 19:25:32.030] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 19:26:37.359] [INFO] system - initOrder
+[2017-08-07 19:26:37.697] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 19:26:37.699] [INFO] system - initOrder
+[2017-08-07 19:26:38.067] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 19:33:50.763] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 19:33:50.764] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.05 }
+[2017-08-07 19:33:50.919] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 19:33:50.919] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.0666 }
+[2017-08-07 19:33:51.079] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 19:33:51.080] [INFO] system - { lastPrice: 29.0666, secLastPrice: 29.0666 }
+[2017-08-07 19:34:39.427] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 19:34:40.075] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 19:34:40.075] [INFO] system - { lastPrice: 29.0001, secLastPrice: 29.1229 }
+[2017-08-07 19:35:38.716] [INFO] system - initOrder
+[2017-08-07 19:35:40.142] [TRACE] system - 買い注文発生: { buyPrice: 28.6 }
+[2017-08-07 19:35:40.144] [INFO] system - initOrder
+[2017-08-07 19:35:40.653] [TRACE] system - 買い注文発生: { buyPrice: 28.8333 }
+[2017-08-07 19:35:40.653] [INFO] system - initOrder
+[2017-08-07 19:35:40.970] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 19:40:38.268] [TRACE] system - 買い注文約定: { buyPrice: 29.0666 }
+[2017-08-07 19:40:38.758] [TRACE] system - 売り注文発生: { sellPrice: 29.3 }
+[2017-08-07 19:40:38.759] [INFO] system - { lastPrice: 29.0502, secLastPrice: 29.0502 }
+[2017-08-07 19:55:20.530] [TRACE] system - 売り注文約定: { sellPrice: 29.3 }
+[2017-08-07 19:55:21.213] [TRACE] system - 買い注文発生: { buyPrice: 29.0666 }
+[2017-08-07 19:55:21.213] [INFO] system - { lastPrice: 29.34, secLastPrice: 29.34 }
+[2017-08-08 00:56:08.940] [INFO] system - initOrder
+[2017-08-08 00:56:10.558] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-08 00:56:10.560] [INFO] system - initOrder
+[2017-08-08 00:56:11.768] [TRACE] system - 買い注文発生: { buyPrice: 29.5833 }
+[2017-08-08 00:56:11.770] [INFO] system - initOrder
+[2017-08-08 00:56:12.201] [TRACE] system - 買い注文発生: { buyPrice: 30.1666 }
+[2017-08-08 00:56:12.201] [INFO] system - initOrder
+[2017-08-08 00:56:12.952] [TRACE] system - 買い注文発生: { buyPrice: 30.75 }
+[2017-08-08 00:56:52.281] [TRACE] system - 買い注文発生: { buyPrice: 31.3333 }
+[2017-08-08 00:56:52.283] [INFO] system - { lastPrice: 31.4, secLastPrice: 31.0001 }
+[2017-08-08 00:56:52.754] [TRACE] system - 買い注文発生: { buyPrice: 31.3333 }
+[2017-08-08 00:56:52.755] [INFO] system - { lastPrice: 31.4, secLastPrice: 31.4 }
+[2017-08-08 00:57:15.372] [TRACE] system - 買い注文約定: { buyPrice: 31.3333 }
+[2017-08-08 00:57:17.303] [TRACE] system - 売り注文発生: { sellPrice: 31.9166 }
+[2017-08-08 00:57:17.304] [INFO] system - { lastPrice: 31.1111, secLastPrice: 31.1111 }
+[2017-08-08 01:04:40.813] [TRACE] system - 買い注文約定: { buyPrice: 30.75 }
+[2017-08-08 01:04:41.500] [TRACE] system - 売り注文発生: { sellPrice: 31.3333 }
+[2017-08-08 01:04:41.500] [INFO] system - { lastPrice: 30.7009, secLastPrice: 30.75 }
+[2017-08-08 01:09:18.324] [TRACE] system - 売り注文約定: { sellPrice: 31.3333 }
+[2017-08-08 01:20:40.943] [INFO] system - initOrder
+[2017-08-08 01:20:41.339] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-08 01:20:41.340] [INFO] system - initOrder
+[2017-08-08 01:20:41.583] [TRACE] system - 買い注文発生: { buyPrice: 29.5833 }
+[2017-08-08 01:20:41.584] [INFO] system - initOrder
+[2017-08-08 01:20:42.096] [TRACE] system - 買い注文発生: { buyPrice: 30.1666 }
+[2017-08-08 01:20:42.096] [INFO] system - initOrder
+[2017-08-08 01:20:42.509] [TRACE] system - 買い注文発生: { buyPrice: 30.75 }
+[2017-08-08 01:20:42.509] [INFO] system - initOrder
+[2017-08-08 01:20:42.878] [TRACE] system - 買い注文発生: { buyPrice: 31.3333 }
+[2017-08-08 12:27:04.287] [INFO] system - initOrder
+[2017-08-08 12:27:04.944] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 12:27:04.945] [INFO] system - initOrder
+[2017-08-08 12:27:05.478] [TRACE] system - 買い注文発生: { buyPrice: 33.25 }
+[2017-08-08 12:27:05.479] [INFO] system - initOrder
+[2017-08-08 12:27:06.143] [TRACE] system - 買い注文発生: { buyPrice: 33.5 }
+[2017-08-08 12:27:06.144] [INFO] system - initOrder
+[2017-08-08 12:27:07.106] [TRACE] system - 買い注文発生: { buyPrice: 33.75 }
+[2017-08-08 15:48:37.652] [INFO] system - initOrder
+[2017-08-08 15:48:37.916] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 15:48:37.918] [INFO] system - initOrder
+[2017-08-08 15:48:38.294] [TRACE] system - 買い注文発生: { buyPrice: 33.25 }
+[2017-08-08 15:48:38.295] [INFO] system - initOrder
+[2017-08-08 15:48:38.544] [TRACE] system - 買い注文発生: { buyPrice: 33.5 }
+[2017-08-08 15:48:38.544] [INFO] system - initOrder
+[2017-08-08 15:48:38.917] [TRACE] system - 買い注文発生: { buyPrice: 33.75 }
+[2017-08-08 17:49:22.868] [INFO] system - initOrder
+[2017-08-08 17:49:23.369] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 17:49:23.370] [INFO] system - initOrder
+[2017-08-08 17:49:23.794] [TRACE] system - 買い注文発生: { buyPrice: 33.375 }
+[2017-08-08 17:49:23.794] [INFO] system - initOrder
+[2017-08-08 17:49:24.157] [TRACE] system - 買い注文発生: { buyPrice: 33.75 }
+[2017-08-08 18:16:49.553] [INFO] system - initOrder
+[2017-08-08 18:16:49.818] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:16:49.819] [INFO] system - initOrder
+[2017-08-08 18:16:50.059] [TRACE] system - 買い注文発生: { buyPrice: 33.375 }
+[2017-08-08 18:18:02.144] [INFO] system - initOrder
+[2017-08-08 18:18:02.148] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:18:02.149] [INFO] system - initOrder
+[2017-08-08 18:18:02.149] [TRACE] system - 買い注文発生: { buyPrice: 33.375 }
+[2017-08-08 18:19:37.001] [INFO] system - initOrder
+[2017-08-08 18:19:37.003] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:19:37.004] [INFO] system - initOrder
+[2017-08-08 18:19:37.005] [TRACE] system - 買い注文発生: { buyPrice: 33.375 }
+[2017-08-08 18:31:59.636] [TRACE] system - 買い注文約定: { buyPrice: 33 }
+[2017-08-08 18:31:59.637] [TRACE] system - 売り注文発生: { sellPrice: 33.375 }
+[2017-08-08 18:31:59.637] [INFO] system - { lastPrice: 32.9999, secLastPrice: 33.5003 }
+[2017-08-08 18:31:59.637] [TRACE] system - 買い注文約定: { buyPrice: 33.375 }
+[2017-08-08 18:31:59.637] [TRACE] system - 売り注文発生: { sellPrice: 33.75 }
+[2017-08-08 18:31:59.637] [INFO] system - { lastPrice: 32.9999, secLastPrice: 33.5003 }
+[2017-08-08 18:40:24.399] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:40:24.402] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:20.245] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:20.246] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:20.443] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:20.443] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:20.491] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:20.492] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:25.669] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:25.670] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:25.945] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:25.945] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:26.321] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:26.321] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:35.358] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:35.358] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-08 18:41:38.054] [TRACE] system - 買い注文発生: { buyPrice: 33 }
+[2017-08-08 18:41:38.055] [INFO] system - { lastPrice: 33, secLastPrice: 32.69 }
+[2017-08-10 20:01:32.105] [INFO] system - initOrder
+[2017-08-10 20:01:32.109] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:01:32.143] [INFO] system - initOrder
+[2017-08-10 20:01:32.144] [TRACE] system - 買い注文発生: { buyPrice: 31.125 }
+[2017-08-10 20:01:32.175] [INFO] system - initOrder
+[2017-08-10 20:01:32.176] [TRACE] system - 買い注文発生: { buyPrice: 32.25 }
+[2017-08-10 20:02:24.399] [INFO] system - initOrder
+[2017-08-10 20:02:24.402] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:02:24.436] [INFO] system - initOrder
+[2017-08-10 20:02:24.436] [TRACE] system - 買い注文発生: { buyPrice: 31.125 }
+[2017-08-10 20:02:24.467] [INFO] system - initOrder
+[2017-08-10 20:02:24.468] [TRACE] system - 買い注文発生: { buyPrice: 32.25 }
+[2017-08-10 20:13:12.669] [INFO] system - initOrder
+[2017-08-10 20:13:12.672] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:13:12.709] [INFO] system - initOrder
+[2017-08-10 20:13:12.709] [TRACE] system - 買い注文発生: { buyPrice: 30.75 }
+[2017-08-10 20:13:12.743] [INFO] system - initOrder
+[2017-08-10 20:13:12.744] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 20:13:12.778] [INFO] system - initOrder
+[2017-08-10 20:13:12.779] [TRACE] system - 買い注文発生: { buyPrice: 32.25 }
+[2017-08-10 20:23:42.454] [INFO] system - initOrder
+[2017-08-10 20:23:42.457] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:23:42.488] [INFO] system - initOrder
+[2017-08-10 20:23:42.489] [TRACE] system - 買い注文発生: { buyPrice: 30.75 }
+[2017-08-10 20:23:42.522] [INFO] system - initOrder
+[2017-08-10 20:23:42.522] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 20:23:42.553] [INFO] system - initOrder
+[2017-08-10 20:23:42.554] [TRACE] system - 買い注文発生: { buyPrice: 32.25 }
+[2017-08-10 20:41:32.081] [INFO] system - initOrder
+[2017-08-10 20:41:32.085] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:41:32.121] [INFO] system - initOrder
+[2017-08-10 20:41:32.121] [TRACE] system - 買い注文発生: { buyPrice: 30.75 }
+[2017-08-10 20:41:32.153] [INFO] system - initOrder
+[2017-08-10 20:41:32.153] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 20:41:32.186] [INFO] system - initOrder
+[2017-08-10 20:41:32.186] [TRACE] system - 買い注文発生: { buyPrice: 32.25 }
+[2017-08-10 20:43:58.271] [INFO] system - initOrder
+[2017-08-10 20:43:58.274] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 20:49:22.217] [INFO] system - initOrder
+[2017-08-10 20:49:22.220] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 21:21:43.621] [INFO] system - initOrder
+[2017-08-10 21:21:43.624] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 21:21:43.658] [INFO] system - initOrder
+[2017-08-10 21:21:43.659] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 21:36:34.508] [INFO] system - initOrder
+[2017-08-10 21:36:34.512] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 21:36:34.547] [INFO] system - initOrder
+[2017-08-10 21:36:34.548] [TRACE] system - 買い注文発生: { buyPrice: 30.3 }
+[2017-08-10 21:36:34.580] [INFO] system - initOrder
+[2017-08-10 21:36:34.581] [TRACE] system - 買い注文発生: { buyPrice: 30.6 }
+[2017-08-10 21:36:34.616] [INFO] system - initOrder
+[2017-08-10 21:36:34.617] [TRACE] system - 買い注文発生: { buyPrice: 30.9 }
+[2017-08-10 21:36:34.652] [INFO] system - initOrder
+[2017-08-10 21:36:34.652] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-10 21:36:34.687] [INFO] system - initOrder
+[2017-08-10 21:36:34.687] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 21:36:34.722] [INFO] system - initOrder
+[2017-08-10 21:36:34.723] [TRACE] system - 買い注文発生: { buyPrice: 31.8 }
+[2017-08-10 21:36:34.758] [INFO] system - initOrder
+[2017-08-10 21:36:34.758] [TRACE] system - 買い注文発生: { buyPrice: 32.1 }
+[2017-08-10 21:36:34.789] [INFO] system - initOrder
+[2017-08-10 21:36:34.789] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-10 21:37:23.163] [TRACE] system - 買い注文発生: { buyPrice: 32.7 }
+[2017-08-10 21:37:23.164] [INFO] system - { lastPrice: 32.7, exLastPrice: 32.61 }
+[2017-08-10 21:44:43.338] [TRACE] system - 買い注文約定: { buyPrice: 32.7 }
+[2017-08-10 21:44:43.841] [TRACE] system - 売り注文発生: { sellPrice: 33 }
+[2017-08-10 21:44:43.842] [INFO] system - { lastPrice: 32.65, exLastPrice: 32.75 }
+[2017-08-10 21:56:30.004] [INFO] system - initOrder
+[2017-08-10 21:56:30.436] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 21:56:30.469] [INFO] system - initOrder
+[2017-08-10 21:56:30.852] [TRACE] system - 買い注文発生: { buyPrice: 30.3 }
+[2017-08-10 21:56:30.887] [INFO] system - initOrder
+[2017-08-10 21:56:31.324] [TRACE] system - 買い注文発生: { buyPrice: 30.6 }
+[2017-08-10 21:56:31.358] [INFO] system - initOrder
+[2017-08-10 21:56:31.866] [TRACE] system - 買い注文発生: { buyPrice: 30.9 }
+[2017-08-10 21:56:31.897] [INFO] system - initOrder
+[2017-08-10 21:56:32.349] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-10 21:56:32.384] [INFO] system - initOrder
+[2017-08-10 21:56:32.991] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 21:56:33.023] [INFO] system - initOrder
+[2017-08-10 21:56:33.376] [TRACE] system - 買い注文発生: { buyPrice: 31.8 }
+[2017-08-10 21:56:33.407] [INFO] system - initOrder
+[2017-08-10 21:56:33.666] [TRACE] system - 買い注文発生: { buyPrice: 32.1 }
+[2017-08-10 21:56:33.698] [INFO] system - initOrder
+[2017-08-10 21:56:33.990] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-10 21:56:34.022] [INFO] system - initOrder
+[2017-08-10 21:56:34.306] [TRACE] system - 買い注文発生: { buyPrice: 32.7 }
+[2017-08-10 22:03:18.511] [TRACE] system - 買い注文約定: { buyPrice: 32.7 }
+[2017-08-10 22:03:19.245] [TRACE] system - 売り注文発生: { sellPrice: 33 }
+[2017-08-10 22:03:19.246] [INFO] system - { lastPrice: 32.68, exLastPrice: 32.68 }
+[2017-08-10 22:09:11.554] [INFO] system - initOrder
+[2017-08-10 22:09:11.813] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 22:09:11.847] [INFO] system - initOrder
+[2017-08-10 22:09:12.528] [TRACE] system - 買い注文発生: { buyPrice: 30.3 }
+[2017-08-10 22:09:12.563] [INFO] system - initOrder
+[2017-08-10 22:09:13.157] [TRACE] system - 買い注文発生: { buyPrice: 30.6 }
+[2017-08-10 22:09:13.189] [INFO] system - initOrder
+[2017-08-10 22:09:13.481] [TRACE] system - 買い注文発生: { buyPrice: 30.9 }
+[2017-08-10 22:09:13.515] [INFO] system - initOrder
+[2017-08-10 22:09:13.765] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-10 22:09:13.797] [INFO] system - initOrder
+[2017-08-10 22:09:14.048] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 22:09:14.083] [INFO] system - initOrder
+[2017-08-10 22:09:14.469] [TRACE] system - 買い注文発生: { buyPrice: 31.8 }
+[2017-08-10 22:09:14.504] [INFO] system - initOrder
+[2017-08-10 22:09:14.812] [TRACE] system - 買い注文発生: { buyPrice: 32.1 }
+[2017-08-10 22:09:14.846] [INFO] system - initOrder
+[2017-08-10 22:09:15.251] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-10 22:14:35.097] [TRACE] system - 買い注文約定: { buyPrice: 32.7 }
+[2017-08-10 22:20:45.952] [INFO] system - initOrder
+[2017-08-10 22:20:46.202] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-10 22:20:46.236] [INFO] system - initOrder
+[2017-08-10 22:20:46.608] [TRACE] system - 買い注文発生: { buyPrice: 30.3 }
+[2017-08-10 22:20:46.643] [INFO] system - initOrder
+[2017-08-10 22:20:47.022] [TRACE] system - 買い注文発生: { buyPrice: 30.6 }
+[2017-08-10 22:20:47.056] [INFO] system - initOrder
+[2017-08-10 22:20:47.440] [TRACE] system - 買い注文発生: { buyPrice: 30.9 }
+[2017-08-10 22:20:47.475] [INFO] system - initOrder
+[2017-08-10 22:20:47.978] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-10 22:20:48.009] [INFO] system - initOrder
+[2017-08-10 22:20:48.271] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-10 22:20:48.311] [INFO] system - initOrder
+[2017-08-10 22:20:48.699] [TRACE] system - 買い注文発生: { buyPrice: 31.8 }
+[2017-08-10 22:20:48.736] [INFO] system - initOrder
+[2017-08-10 22:20:49.164] [TRACE] system - 買い注文発生: { buyPrice: 32.1 }
+[2017-08-10 22:20:49.200] [INFO] system - initOrder
+[2017-08-10 22:20:49.478] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-10 22:20:49.516] [INFO] system - initOrder
+[2017-08-10 22:20:49.775] [TRACE] system - 買い注文発生: { buyPrice: 32.7 }
+[2017-08-11 01:29:49.077] [INFO] system - initOrder
+[2017-08-11 01:29:49.457] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 01:29:49.489] [INFO] system - initOrder
+[2017-08-11 01:29:49.729] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 01:29:49.764] [INFO] system - initOrder
+[2017-08-11 01:29:50.134] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 01:29:50.166] [INFO] system - initOrder
+[2017-08-11 01:29:50.368] [TRACE] system - 買い注文発生: { buyPrice: 32.6 }
+[2017-08-11 01:29:50.398] [INFO] system - initOrder
+[2017-08-11 01:29:50.889] [TRACE] system - 買い注文発生: { buyPrice: 32.8 }
+[2017-08-11 13:40:52.679] [INFO] system - initOrder
+[2017-08-11 13:40:52.889] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 13:40:52.922] [INFO] system - initOrder
+[2017-08-11 13:40:53.132] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 13:41:22.489] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 13:41:22.489] [INFO] system - { lastPrice: 32.4, exLastPrice: 32.3799 }
+[2017-08-11 13:41:43.858] [TRACE] system - 買い注文約定: { buyPrice: 32.4 }
+[2017-08-11 13:41:44.083] [TRACE] system - 売り注文発生: { sellPrice: 32.6 }
+[2017-08-11 13:41:44.084] [INFO] system - { lastPrice: 32.39, exLastPrice: 32.39 }
+[2017-08-11 14:00:07.524] [INFO] system - initOrder
+[2017-08-11 14:00:07.889] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 14:00:07.924] [INFO] system - initOrder
+[2017-08-11 14:00:08.332] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 14:00:13.767] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 14:00:13.767] [INFO] system - { lastPrice: 32.4008, exLastPrice: 32.2951 }
+[2017-08-11 14:00:38.532] [TRACE] system - 買い注文約定: { buyPrice: 32.4 }
+[2017-08-11 14:00:38.532] [TRACE] system - 売り注文発生: { sellPrice: 32.6 }
+[2017-08-11 14:00:38.532] [INFO] system - { lastPrice: 32.2901, exLastPrice: 32.4 }
+[2017-08-11 14:42:34.950] [INFO] system - initOrder
+[2017-08-11 14:42:35.464] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 14:42:35.500] [INFO] system - initOrder
+[2017-08-11 14:42:35.819] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 14:42:35.851] [INFO] system - initOrder
+[2017-08-11 14:42:36.282] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 14:42:36.316] [INFO] system - initOrder
+[2017-08-11 14:42:36.725] [TRACE] system - 買い注文発生: { buyPrice: 32.6 }
+[2017-08-11 14:42:37.511] [TRACE] system - 買い注文約定: { buyPrice: 32.6 }
+[2017-08-11 14:42:37.512] [TRACE] system - 売り注文発生: { sellPrice: 32.8 }
+[2017-08-11 14:42:37.512] [INFO] system - { lastPrice: 32.5383, exLastPrice: 32.605 }
+[2017-08-11 15:06:02.152] [INFO] system - initOrder
+[2017-08-11 15:06:02.505] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 15:06:02.537] [INFO] system - initOrder
+[2017-08-11 15:06:03.248] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 15:06:03.281] [INFO] system - initOrder
+[2017-08-11 15:06:03.711] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 15:19:30.902] [INFO] system - initOrder
+[2017-08-11 15:19:34.304] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 15:19:34.345] [INFO] system - initOrder
+[2017-08-11 15:19:34.700] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 15:19:34.735] [INFO] system - initOrder
+[2017-08-11 15:19:35.165] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 16:06:28.829] [INFO] system - initOrder
+[2017-08-11 16:06:29.204] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 16:06:29.236] [INFO] system - initOrder
+[2017-08-11 16:06:29.581] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 16:06:29.615] [INFO] system - initOrder
+[2017-08-11 16:06:29.827] [TRACE] system - 買い注文発生: { buyPrice: 32.4 }
+[2017-08-11 16:07:33.783] [TRACE] system - 買い注文約定: { buyPrice: 32.4 }
+[2017-08-11 16:07:33.784] [TRACE] system - 売り注文発生: { sellPrice: 32.6 }
+[2017-08-11 16:07:33.784] [INFO] system - { lastPrice: 32.3501, exLastPrice: 32.5 }
+[2017-08-11 17:09:04.691] [TRACE] system - 買い注文約定: { buyPrice: 32.2 }
+[2017-08-11 17:09:04.692] [TRACE] system - 売り注文発生: { sellPrice: 32.4 }
+[2017-08-11 17:09:04.692] [INFO] system - { lastPrice: 32.19, exLastPrice: 32.2 }
+[2017-08-11 19:31:10.121] [INFO] system - initOrder
+[2017-08-11 19:31:10.373] [TRACE] system - 買い注文発生: { buyPrice: 32 }
+[2017-08-11 19:31:10.405] [INFO] system - initOrder
+[2017-08-11 19:31:11.249] [TRACE] system - 買い注文発生: { buyPrice: 32.1 }
+[2017-08-11 19:31:11.285] [INFO] system - initOrder
+[2017-08-11 19:31:11.643] [TRACE] system - 買い注文発生: { buyPrice: 32.2 }
+[2017-08-11 19:32:31.855] [TRACE] system - 買い注文約定: { buyPrice: 32.2 }
+[2017-08-11 19:32:31.857] [TRACE] system - 売り注文発生: { sellPrice: 32.3 }
+[2017-08-11 19:32:31.857] [INFO] system - { lastPrice: 32.13, exLastPrice: 32.2 }
+[2017-08-11 19:36:18.964] [TRACE] system - 買い注文約定: { buyPrice: 32.1 }
+[2017-08-11 19:36:18.964] [TRACE] system - 売り注文発生: { sellPrice: 32.2 }
+[2017-08-11 19:36:18.964] [INFO] system - { lastPrice: 32.0824, exLastPrice: 32.1 }
+[2017-08-11 21:42:00.502] [INFO] system - initOrder
+[2017-08-11 21:42:01.217] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-11 21:42:01.250] [INFO] system - initOrder
+[2017-08-11 21:42:01.685] [TRACE] system - 買い注文発生: { buyPrice: 31.1 }
+[2017-08-11 21:42:01.716] [INFO] system - initOrder
+[2017-08-11 21:42:02.341] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-11 21:42:02.374] [INFO] system - initOrder
+[2017-08-11 21:42:02.951] [TRACE] system - 買い注文発生: { buyPrice: 31.3 }
+[2017-08-11 21:42:02.983] [INFO] system - initOrder
+[2017-08-11 21:42:03.210] [TRACE] system - 買い注文発生: { buyPrice: 31.4 }
+[2017-08-11 21:44:59.981] [INFO] system - initOrder
+[2017-08-11 21:45:00.227] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-11 21:45:00.261] [INFO] system - initOrder
+[2017-08-11 21:45:00.553] [TRACE] system - 買い注文発生: { buyPrice: 31.1 }
+[2017-08-11 21:45:00.589] [INFO] system - initOrder
+[2017-08-11 21:45:00.993] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-11 21:45:01.024] [INFO] system - initOrder
+[2017-08-11 21:45:01.644] [TRACE] system - 買い注文発生: { buyPrice: 31.3 }
+[2017-08-11 21:45:51.741] [TRACE] system - 買い注文発生: { buyPrice: 31.4 }
+[2017-08-11 21:45:51.741] [INFO] system - { lastPrice: 31.49, exLastPrice: 31.3499 }
+[2017-08-11 21:45:52.879] [TRACE] system - 買い注文約定: { buyPrice: 31.4 }
+[2017-08-11 21:45:52.879] [TRACE] system - 売り注文発生: { sellPrice: 31.5 }
+[2017-08-11 21:45:52.879] [INFO] system - { lastPrice: 31.351, exLastPrice: 31.49 }
+[2017-08-11 21:48:22.489] [TRACE] system - 買い注文発生: { buyPrice: 31.3 }
+[2017-08-11 21:48:22.490] [INFO] system - { lastPrice: 31.3505, exLastPrice: 31.2 }
+[2017-08-11 21:48:22.513] [TRACE] system - 買い注文約定: { buyPrice: 31.3 }
+[2017-08-11 21:48:22.513] [TRACE] system - 売り注文発生: { sellPrice: 31.4 }
+[2017-08-11 21:48:22.514] [INFO] system - { lastPrice: 31.2, exLastPrice: 31.3 }
+[2017-08-11 21:52:44.037] [TRACE] system - 買い注文約定: { buyPrice: 31.2 }
+[2017-08-11 21:52:44.038] [TRACE] system - 売り注文発生: { sellPrice: 31.3 }
+[2017-08-11 21:52:44.038] [INFO] system - { lastPrice: 31.1503, exLastPrice: 31.2503 }
+[2017-08-11 21:57:55.282] [TRACE] system - 売り注文約定: { sellPrice: 31.3 }
+[2017-08-11 21:57:55.283] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-11 21:57:55.283] [INFO] system - { lastPrice: 31.5499, exLastPrice: 31.3 }
+[2017-08-11 21:57:55.394] [TRACE] system - 買い注文発生: { buyPrice: 31.5 }
+[2017-08-11 21:57:55.394] [INFO] system - { lastPrice: 31.5499, exLastPrice: 31.3 }
+[2017-08-11 21:57:55.537] [TRACE] system - 売り注文約定: { sellPrice: 31.5 }
+[2017-08-11 21:57:55.538] [TRACE] system - 買い注文発生: { buyPrice: 31.4 }
+[2017-08-11 21:57:55.538] [INFO] system - { lastPrice: 31.5499, exLastPrice: 31.3 }
+[2017-08-11 21:58:10.866] [TRACE] system - 買い注文約定: { buyPrice: 31.5 }
+[2017-08-11 21:58:10.867] [TRACE] system - 売り注文発生: { sellPrice: 31.6 }
+[2017-08-11 21:58:10.867] [INFO] system - { lastPrice: 31.4, exLastPrice: 31.5499 }
+[2017-08-11 21:58:35.600] [TRACE] system - 売り注文約定: { sellPrice: 31.4 }
+[2017-08-11 21:58:35.601] [TRACE] system - 買い注文発生: { buyPrice: 31.3 }
+[2017-08-11 21:58:35.601] [INFO] system - { lastPrice: 31.55, exLastPrice: 31.4 }
+[2017-08-11 22:05:20.734] [TRACE] system - 買い注文約定: { buyPrice: 31.4 }
+[2017-08-11 22:05:20.735] [TRACE] system - 売り注文発生: { sellPrice: 31.5 }
+[2017-08-11 22:05:20.735] [INFO] system - { lastPrice: 31.3601, exLastPrice: 31.4799 }
+[2017-08-11 22:06:31.649] [TRACE] system - 買い注文約定: { buyPrice: 31.3 }
+[2017-08-11 22:06:31.649] [TRACE] system - 売り注文発生: { sellPrice: 31.4 }
+[2017-08-11 22:06:31.649] [INFO] system - { lastPrice: 31.23, exLastPrice: 31.3005 }
+[2017-08-11 22:11:16.327] [TRACE] system - 買い注文約定: { buyPrice: 31.2 }
+[2017-08-11 22:11:16.328] [TRACE] system - 売り注文発生: { sellPrice: 31.3 }
+[2017-08-11 22:11:16.328] [INFO] system - { lastPrice: 31.18, exLastPrice: 31.2 }
+[2017-08-11 22:12:16.365] [TRACE] system - 売り注文約定: { sellPrice: 31.3 }
+[2017-08-11 22:12:16.366] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-11 22:12:16.366] [INFO] system - { lastPrice: 31.4, exLastPrice: 31.3 }
+[2017-08-11 22:12:24.749] [TRACE] system - 買い注文約定: { buyPrice: 31.2 }
+[2017-08-11 22:12:24.749] [TRACE] system - 売り注文発生: { sellPrice: 31.3 }
+[2017-08-11 22:12:24.750] [INFO] system - { lastPrice: 31.15, exLastPrice: 31.4 }
+[2017-08-11 22:14:28.608] [TRACE] system - 売り注文約定: { sellPrice: 31.3 }
+[2017-08-11 22:14:28.609] [TRACE] system - 買い注文発生: { buyPrice: 31.2 }
+[2017-08-11 22:14:28.609] [INFO] system - { lastPrice: 31.4, exLastPrice: 31.3 }
+[2017-08-11 22:15:47.309] [TRACE] system - 買い注文約定: { buyPrice: 31.2 }
+[2017-08-11 22:15:47.309] [TRACE] system - 売り注文発生: { sellPrice: 31.3 }
+[2017-08-11 22:15:47.309] [INFO] system - { lastPrice: 31.1201, exLastPrice: 31.4 }
+[2017-08-11 22:17:12.877] [TRACE] system - 買い注文約定: { buyPrice: 31.1 }
+[2017-08-11 22:17:12.878] [TRACE] system - 売り注文発生: { sellPrice: 31.2 }
+[2017-08-11 22:17:12.878] [INFO] system - { lastPrice: 31.0501, exLastPrice: 31.1 }
+[2017-08-11 22:57:55.462] [INFO] system - initOrder
+[2017-08-11 22:57:55.985] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-11 22:57:56.018] [INFO] system - initOrder
+[2017-08-11 22:57:56.298] [TRACE] system - 買い注文発生: { buyPrice: 30.3333 }
+[2017-08-11 22:57:56.331] [INFO] system - initOrder
+[2017-08-11 22:57:56.752] [TRACE] system - 買い注文発生: { buyPrice: 30.6666 }
+[2017-08-11 22:57:56.783] [INFO] system - initOrder
+[2017-08-11 22:57:57.279] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-11 22:58:42.800] [TRACE] system - 買い注文約定: { buyPrice: 31 }
+[2017-08-11 22:58:42.800] [TRACE] system - 売り注文発生: { sellPrice: 31.3333 }
+[2017-08-11 22:58:42.801] [INFO] system - { lastPrice: 30.9202, exLastPrice: 31 }
+[2017-08-11 23:09:00.365] [TRACE] system - 買い注文発生: { buyPrice: 31.3333 }
+[2017-08-11 23:09:00.365] [INFO] system - { lastPrice: 31.4999, exLastPrice: 31.19 }
+[2017-08-11 23:09:27.234] [TRACE] system - 買い注文約定: { buyPrice: 31.3333 }
+[2017-08-11 23:09:27.235] [TRACE] system - 売り注文発生: { sellPrice: 31.6666 }
+[2017-08-11 23:09:27.237] [INFO] system - { lastPrice: 31.0005, exLastPrice: 31.3333 }
+[2017-08-11 23:09:31.938] [TRACE] system - 売り注文約定: { sellPrice: 31.3333 }
+[2017-08-11 23:09:31.938] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-11 23:09:31.938] [INFO] system - { lastPrice: 31.4998, exLastPrice: 31.0004 }
+[2017-08-11 23:16:55.869] [INFO] system - initOrder
+[2017-08-11 23:16:56.241] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-11 23:16:56.277] [INFO] system - initOrder
+[2017-08-11 23:16:56.660] [TRACE] system - 買い注文発生: { buyPrice: 30.3333 }
+[2017-08-11 23:16:56.694] [INFO] system - initOrder
+[2017-08-11 23:16:57.594] [TRACE] system - 買い注文発生: { buyPrice: 30.6666 }
+[2017-08-11 23:16:57.625] [INFO] system - initOrder
+[2017-08-11 23:16:57.902] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-11 23:21:31.358] [TRACE] system - 買い注文発生: { buyPrice: 31.3333 }
+[2017-08-11 23:21:31.359] [INFO] system - { lastPrice: 31.4899, exLastPrice: 31.1701 }
+[2017-08-11 23:22:20.882] [TRACE] system - 買い注文約定: { buyPrice: 31.3333 }
+[2017-08-11 23:22:20.884] [TRACE] system - 売り注文発生: { sellPrice: 31.6666 }
+[2017-08-11 23:22:20.885] [INFO] system - { lastPrice: 31.1703, exLastPrice: 31.3333 }
+[2017-08-12 08:24:27.673] [INFO] system - initOrder
+[2017-08-12 08:25:48.109] [INFO] system - initOrder
+[2017-08-12 08:25:57.763] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-12 08:25:57.799] [INFO] system - initOrder
+[2017-08-12 08:26:04.626] [TRACE] system - 買い注文発生: { buyPrice: 31.2333 }
+[2017-08-12 08:26:04.657] [INFO] system - initOrder
+[2017-08-12 08:26:10.759] [TRACE] system - 買い注文発生: { buyPrice: 31.4666 }
+[2017-08-12 08:26:10.795] [INFO] system - initOrder
+[2017-08-12 08:48:43.480] [INFO] system - initOrder
+[2017-08-12 08:48:53.262] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-12 08:48:53.297] [INFO] system - initOrder
+[2017-08-12 08:50:39.007] [INFO] system - initOrder
+[2017-08-12 08:50:53.706] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-12 08:50:53.739] [INFO] system - initOrder
+[2017-08-12 08:51:01.713] [TRACE] system - 買い注文発生: { buyPrice: 31.2333 }
+[2017-08-12 08:51:01.746] [INFO] system - initOrder
+[2017-08-12 08:54:31.453] [INFO] system - initOrder
+[2017-08-12 08:54:35.534] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-12 08:54:35.566] [INFO] system - initOrder
+[2017-08-12 08:54:46.648] [TRACE] system - 買い注文発生: { buyPrice: 31.2333 }
+[2017-08-12 08:54:46.681] [INFO] system - initOrder
+[2017-08-12 08:54:51.229] [TRACE] system - 買い注文発生: { buyPrice: 31.4666 }
+[2017-08-12 08:54:51.260] [INFO] system - initOrder
+[2017-08-12 08:54:58.071] [TRACE] system - 買い注文発生: { buyPrice: 31.7 }
+[2017-08-12 08:54:58.105] [INFO] system - initOrder
+[2017-08-12 08:55:07.402] [TRACE] system - 買い注文発生: { buyPrice: 31.9333 }
+[2017-08-12 08:55:07.433] [INFO] system - initOrder
+[2017-08-12 08:55:18.953] [TRACE] system - 買い注文発生: { buyPrice: 32.1666 }
+[2017-08-12 09:11:06.427] [TRACE] system - 買い注文約定: { buyPrice: 32.1666 }
+[2017-08-12 09:11:06.427] [TRACE] system - 売り注文発生: { sellPrice: 32.4 }
+[2017-08-12 09:11:06.428] [INFO] system - { lastPrice: 32.15, exLastPrice: 32.199 }
+[2017-08-12 09:14:49.285] [INFO] system - initOrder
+[2017-08-12 09:14:57.713] [TRACE] system - 買い注文発生: { buyPrice: 31 }
+[2017-08-12 09:14:57.744] [INFO] system - initOrder
+[2017-08-12 09:15:04.703] [TRACE] system - 買い注文発生: { buyPrice: 31.2333 }
+[2017-08-12 09:15:04.734] [INFO] system - initOrder
+[2017-08-12 09:15:20.326] [TRACE] system - 買い注文発生: { buyPrice: 31.4666 }
+[2017-08-12 09:15:20.358] [INFO] system - initOrder
+[2017-08-12 09:15:34.640] [TRACE] system - 買い注文発生: { buyPrice: 31.7 }
+[2017-08-12 09:15:34.670] [INFO] system - initOrder
+[2017-08-12 09:15:52.803] [TRACE] system - 買い注文発生: { buyPrice: 31.9333 }
+[2017-08-12 09:16:29.217] [TRACE] system - 買い注文約定: { buyPrice: 32.1666 }
+[2017-08-12 09:16:29.218] [TRACE] system - 売り注文発生: { sellPrice: 32.4 }
+[2017-08-12 09:16:29.218] [INFO] system - { lastPrice: 32.1, exLastPrice: 32.1989 }
+[2017-08-13 15:54:21.830] [INFO] system - initOrder
+[2017-08-13 15:54:24.042] [TRACE] system - 買い注文発生: { buyPrice: 29 }
+[2017-08-13 15:54:24.075] [INFO] system - initOrder
+[2017-08-13 15:54:24.550] [TRACE] system - 買い注文発生: { buyPrice: 29.3333 }
+[2017-08-13 15:54:24.586] [INFO] system - initOrder
+[2017-08-13 15:54:24.956] [TRACE] system - 買い注文発生: { buyPrice: 29.6666 }
+[2017-08-13 15:54:24.991] [INFO] system - initOrder
+[2017-08-13 15:54:25.337] [TRACE] system - 買い注文発生: { buyPrice: 30 }
+[2017-08-13 15:54:25.370] [INFO] system - initOrder
+[2017-08-13 15:54:25.878] [TRACE] system - 買い注文発生: { buyPrice: 30.3333 }
+[2017-08-13 15:54:25.910] [INFO] system - initOrder
+[2017-08-13 15:54:27.636] [TRACE] system - 買い注文発生: { buyPrice: 30.6666 }
+[2017-08-13 15:58:17.278] [TRACE] system - 買い注文約定: { buyPrice: 30.6666 }
+[2017-08-13 15:58:17.279] [TRACE] system - 売り注文発生: { sellPrice: 31 }
+[2017-08-13 15:58:17.280] [INFO] system - { lastPrice: 30.62, exLastPrice: 30.8479 }
+[2017-08-13 16:05:38.798] [TRACE] system - 買い注文約定: { buyPrice: 30.3333 }
+[2017-08-13 16:05:38.798] [TRACE] system - 売り注文発生: { sellPrice: 30.6666 }
+[2017-08-13 16:05:38.798] [INFO] system - { lastPrice: 30.3, exLastPrice: 30.3333 }
+[2017-08-13 16:09:33.865] [TRACE] system - 買い注文約定: { buyPrice: 30 }
+[2017-08-13 16:09:33.865] [TRACE] system - 売り注文発生: { sellPrice: 30.3333 }
+[2017-08-13 16:09:33.865] [INFO] system - { lastPrice: 29.9999, exLastPrice: 30 }
+[2017-08-14 14:25:06.989] [INFO] system - initOrder
+[2017-08-14 14:25:07.889] [TRACE] system - 買い注文発生: { buyPrice: 28.5 }
+[2017-08-14 14:25:07.920] [INFO] system - initOrder
+[2017-08-14 14:25:09.226] [TRACE] system - 買い注文発生: { buyPrice: 28.7142 }
+[2017-08-14 14:25:09.256] [INFO] system - initOrder
+[2017-08-14 14:25:10.090] [TRACE] system - 買い注文発生: { buyPrice: 28.9285 }
+[2017-08-14 14:25:10.121] [INFO] system - initOrder
+[2017-08-14 14:25:10.382] [TRACE] system - 買い注文発生: { buyPrice: 29.1428 }
+[2017-08-14 14:26:13.968] [TRACE] system - 買い注文発生: { buyPrice: 29.3571 }
+[2017-08-14 14:26:13.969] [INFO] system - { lastPrice: 29.395, exLastPrice: 29.29 }
+[2017-08-14 14:27:50.126] [TRACE] system - 買い注文約定: { buyPrice: 29.3571 }
+[2017-08-14 14:27:50.127] [TRACE] system - 売り注文発生: { sellPrice: 29.5714 }
+[2017-08-14 14:27:50.127] [INFO] system - { lastPrice: 29.3, exLastPrice: 29.3571 }
+[2017-08-14 14:55:35.217] [TRACE] system - 買い注文約定: { buyPrice: 29.1428 }
+[2017-08-14 14:55:35.218] [TRACE] system - 売り注文発生: { sellPrice: 29.3571 }
+[2017-08-14 14:55:35.218] [INFO] system - { lastPrice: 29.015, exLastPrice: 29.28 }
+[2017-08-14 15:12:40.965] [TRACE] system - 売り注文約定: { sellPrice: 29.3571 }
+[2017-08-14 15:12:40.965] [TRACE] system - 買い注文発生: { buyPrice: 29.1428 }
+[2017-08-14 15:12:40.966] [INFO] system - { lastPrice: 29.5, exLastPrice: 29.3002 }
